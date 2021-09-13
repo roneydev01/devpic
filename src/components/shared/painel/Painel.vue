@@ -12,6 +12,7 @@ export default {
 }
 </script>
 <style scoped>
+    /* com o scoped  os estilos aplicados com (*) só se ao próprio componente.*/ 
     /* estilo do painel */ 
    .painel {
     padding: 0 auto;
