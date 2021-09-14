@@ -18,3 +18,4 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 # proxima
+https://cursos.alura.com.br/course/vue-parte1/task/23354
